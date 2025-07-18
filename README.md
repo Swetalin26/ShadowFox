@@ -1,5 +1,5 @@
 # ShadowFox
-All tasks reated to shadowfox
+All tasks related to shadowfox
 Task 1 - Visualization Library Documentation
 
 This notebook compares two Python data visualization libraries: **Matplotlib** and **Seaborn**.
